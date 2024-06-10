@@ -1,0 +1,10 @@
+com.example.picpay
+com.example.picpay.controller
+com.example.picpay.dto
+com.example.picpay.infra
+com.example.picpay.notification
+com.example.picpay.repository
+com.example.picpay.resources
+com.example.picpay.service
+com.example.picpay.transacao
+com.example.picpay.usuario
